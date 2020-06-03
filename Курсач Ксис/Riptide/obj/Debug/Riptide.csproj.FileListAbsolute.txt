@@ -1,0 +1,11 @@
+E:\КСИС\Курсач\Riptide\bin\Debug\Riptide.exe.config
+E:\КСИС\Курсач\Riptide\bin\Debug\Riptide.exe
+E:\КСИС\Курсач\Riptide\bin\Debug\Riptide.pdb
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.csprojAssemblyReference.cache
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.SyncInForm.resources
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.GameForm.resources
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.Properties.Resources.resources
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.csproj.GenerateResource.cache
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.csproj.CoreCompileInputs.cache
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.exe
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.pdb
